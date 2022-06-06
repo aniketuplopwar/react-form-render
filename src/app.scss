@@ -1,0 +1,14 @@
+h2 {
+    
+}
+form {
+    text-align: left;
+    max-width: 300px;
+    
+
+    > p {
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
